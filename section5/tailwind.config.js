@@ -16,6 +16,9 @@ module.exports = {
           600: '#3B69B7',
       }
     },
+    fontFamily: {
+      noto: ['Noto Sans JP']
+    }
   },
   variants: {
     extend: {},
